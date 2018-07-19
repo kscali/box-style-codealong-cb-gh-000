@@ -48,6 +48,10 @@ figcaption {
   background: -o-linear-gradient(top,#efefef 0%,#ffffff 24%, #ffffff 68%, #dddddd 100%);
 }
 
+.medium-fade {
+  
+}
+
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
